@@ -8,6 +8,9 @@ This is my first assignment project for the UCI Coding Bootcamp. Working on this
 
 Browse the website and repository as desired.
 
+Link:
+https://danhalsim.github.io/Assignment-1/
+
 Website screenshot:
 ![website screenshot](Assets/screenshot.png)
 
